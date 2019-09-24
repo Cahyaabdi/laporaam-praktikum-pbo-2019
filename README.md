@@ -10,9 +10,9 @@
 
 |  |  |
 |--|--|
-| NIM | ***silakan isi nim di sini*** |
-| Nama Lengkap | ***silakan isi nama lengkap di sini*** |
-| Kelas | TI-2C / TI-2D (**silakan hapus salah satu, sesuaikan dengan kelas Anda**) |
+| NIM | ***1841720070*** |
+| Nama Lengkap | ***Cahya Abdillah*** |
+| Kelas | TI-2C / TI-2D (**TI-2C**) |
 
 
 ## Komponen Penilaian Laporan Praktikum
