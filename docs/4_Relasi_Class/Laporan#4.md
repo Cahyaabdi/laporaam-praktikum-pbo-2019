@@ -1,4 +1,4 @@
-# Laporan Praktikum #3- Pengantar Konsep PBO
+# Laporan Praktikum #4-Relasi_Class
 
 ## Kompetensi
 
