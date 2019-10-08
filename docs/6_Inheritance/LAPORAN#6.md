@@ -50,7 +50,7 @@ Main Class Percobaan 1 : [Klik disini](../../src/6_Inheritance/Percobaan1/Percob
 
     Jawab:
 
-    Karena pada ClassB1841720085Falaah belum memiliki fungsi extends yang diarahkan ke ClasA1841720070yayak sehingga main tidak dapat membaca variable x dan y serta method getNilaiyayak().
+    Karena pada ClassB1841720070yayak belum memiliki fungsi extends yang diarahkan ke ClasA1841720070yayak sehingga main tidak dapat membaca variable x dan y serta method getNilaiyayak().
 
 
 ### Percobaan 2 (Hak Akses)
