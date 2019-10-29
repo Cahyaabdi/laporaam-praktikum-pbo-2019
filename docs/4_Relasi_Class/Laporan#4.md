@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # Laporan Praktikum #3- Pengantar Konsep PBO
+=======
+# Laporan Praktikum #4-Relasi_Class
+>>>>>>> 039777f585ae00e1a830a9a1fe783a0d451a4ecc
 
 ## Kompetensi
 
@@ -21,7 +25,11 @@ III. Praktikum
 
 `contoh screenshot yang benar, menampilkan 3 komponen, yaitu struktur project, kode program, dan hasil kompilasi`
 
+<<<<<<< HEAD
 ![contoh screenshot](img/P1.PNG )
+=======
+![contoh screenshot](img/P1.png )
+>>>>>>> 039777f585ae00e1a830a9a1fe783a0d451a4ecc
 
 Contoh link kode program : [MainPercobaan1841720070yayak](../../src/4_Relasi_Class/MainPercobaan1841720070yayak.java)
 
@@ -59,7 +67,11 @@ Jawab :
 
 `contoh screenshot yang benar, menampilkan 3 komponen, yaitu struktur project, kode program, dan hasil kompilasi`
 
+<<<<<<< HEAD
 ![contoh screenshot](img/p2.PNG)
+=======
+![contoh screenshot](img/p2.png)
+>>>>>>> 039777f585ae00e1a830a9a1fe783a0d451a4ecc
 
 
 Contoh link kode program : [MainPercobaan21841720070yayak](../../src/4_Relasi_Class/MainPercobaan21841720070yayak.java)
@@ -139,7 +151,11 @@ Pegawai masinis = new Pegawai("1234", "Spongebob Squarepants"); KeretaApi kereta
 
 `contoh screenshot yang benar, menampilkan 3 komponen, yaitu struktur project, kode program, dan hasil kompilasi`
 
+<<<<<<< HEAD
 ![contoh screenshot](img/p4.PNG)
+=======
+![contoh screenshot](img/p4.png)
+>>>>>>> 039777f585ae00e1a830a9a1fe783a0d451a4ecc
 
  Contoh link kode program : [MainPercobaan4](../../src/4_Relasi_Class/MainPercobaan4.java)
 
@@ -206,4 +222,8 @@ Jika saya melakukan plagiasi, kecurangan, atau melanggar hak kekayaan intelektua
 
 Ttd,
 
+<<<<<<< HEAD
 ***(Cahya Abdillah)***
+=======
+***(Cahya Abdillah)***
+>>>>>>> 039777f585ae00e1a830a9a1fe783a0d451a4ecc
