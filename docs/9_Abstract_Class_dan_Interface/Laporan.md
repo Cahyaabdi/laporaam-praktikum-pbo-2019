@@ -38,7 +38,7 @@ Jawab:
 Tidak boleh, karena kelas turunan harus mengoverride method yang ada dari kelas parent dan bila tidak maka akan muncul error, misalnya di kelas Kucing1841720128Yayak dihapus method bergerakYayak(), makan akan muncul error.
 
 # Percobaan 2
-Pada percobaan kedua saya membuat satu buah interface dan empat buah class, yang pertama bernama Icumlaude1841720128Arifin yang merupakan interface dan memiliki method lulusyayak() dan meraihIPKTinggiyayak(). Kedua adalah class dengan nama Mahasiswa1841720128yayak yang memiliki atribut bernama nama dengan tipe data String, selain atribut terdapat konstruktor berparameter satu dan method kuliahDiKampusyayak() untuk menampilkan value dari atribut nama. Yang ketiga adalah class dengan nama Sarjana1841720070yayak yang merupakan turunan dari Mahasiswa1841720070yayak dan implemen dari Icumlaude1841720070yayak, selain itu terdapat konstruktor Sarjana1841720070yayak untuk memanggil atribut nama dari parent class dan terdapat dua method yaitu lulusyayak() dan meraihIPKTinggiyayak(). Ketiga adalah class PascaSarjana1841720070yayak yang merupakan child class dari Mahasiswa dan implement dari Icumlaude1841720070yayak dan konstruktor PascaSarjana yang memanggil atribut nama dari parent classnya selain itu, terdapat method lulusyayak() dan juga method bernama meraihIPKTinggiyayak(). Keempat adalah class dengan nama Rektor1841720070yayak yang memiliki method beriSertifikatCumlaudeyayak yang menampilkan hasil pada method lulusyayak() dan meraihIPKTinggiyayak(). Yang terakhir adalah saya membuat main class bernama Programtest1841720070yayak.
+Pada percobaan kedua saya membuat satu buah interface dan empat buah class, yang pertama bernama Icumlaude1841720128yayak yang merupakan interface dan memiliki method lulusyayak() dan meraihIPKTinggiyayak(). Kedua adalah class dengan nama Mahasiswa1841720128yayak yang memiliki atribut bernama nama dengan tipe data String, selain atribut terdapat konstruktor berparameter satu dan method kuliahDiKampusyayak() untuk menampilkan value dari atribut nama. Yang ketiga adalah class dengan nama Sarjana1841720070yayak yang merupakan turunan dari Mahasiswa1841720070yayak dan implemen dari Icumlaude1841720070yayak, selain itu terdapat konstruktor Sarjana1841720070yayak untuk memanggil atribut nama dari parent class dan terdapat dua method yaitu lulusyayak() dan meraihIPKTinggiyayak().
 
 ![screenshot](img/P2.PNG)
 
@@ -73,7 +73,7 @@ Dapatkah method kuliahDiKampus() dipanggil dari objek sarjanaCumlaude di class P
 
 Jawab:
 
-Bisa, karena object sarjanaCumlaude dari class Sarjana1841720070yayak adalah kelas turunan dari Mahasiswa1841720070yayak, sehingga method kuliahDiKampusArifin() bisa dipanggil ke class Sarjana1841720070yayak.
+Bisa, karena object sarjanaCumlaude dari class Sarjana1841720070yayak adalah kelas turunan dari Mahasiswa1841720070yayak, sehingga method kuliahDiKampusyayak() bisa dipanggil ke class Sarjana1841720070yayak.
 
 Dapatkah method kuliahDiKampus() dipanggil dari parameter mahasiswa di method beriSertifikatCumlaude() pada class Rektor? Mengapa demikian?
 
