@@ -83,7 +83,7 @@ e = eBill;
 
 pada baris 14 dan 15 (baris terakhir dalam method main) ! Apa yang menyebabkan error?
 
-- ![contoh screenshot](img/s5.PNG)
+- ![contoh screenshot](img/P2.PNG)
 - Karena iEmp tidak mengimplementasikan interface Payable1841720070yayak dan eBill bukan turunan dari class Employee1841720070yayak
 
 6.	Ambil kesimpulan tentang konsep/bentuk dasar polimorfisme!
