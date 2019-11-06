@@ -114,7 +114,7 @@ Link kode program : [Tester21841720070yayak.java](../../src/10_Polimorfisme/Test
 
 Link kode program : [Tester31841720070yayak.java](../../src/10_Polimorfisme/Tester31841720070yayak.java)
 
-![contoh screenshot](img/p3.PNG)
+![contoh screenshot](img/P3.PNG)
 
 ## Pertanyaan Percobaan 3
 
@@ -141,7 +141,7 @@ Link kode program : [Owner1841720070yayak.java](../../src/10_Polimorfisme/Owner1
 
 Link kode program : [Tester41841720070yayak.java](../../src/10_Polimorfisme/Tester41841720070yayak.java)
 
-![contoh screenshot](img/p4.PNG)
+![contoh screenshot](img/P4.PNG)
 
 ## Pertanyaan Percobaan 4
 
