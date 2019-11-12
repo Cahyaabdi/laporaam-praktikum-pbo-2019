@@ -83,7 +83,7 @@ e = eBill;
 
 pada baris 14 dan 15 (baris terakhir dalam method main) ! Apa yang menyebabkan error?
 
-- ![contoh screenshot](img/s5.PNG)
+- ![contoh screenshot](img/P2.PNG)
 - Karena iEmp tidak mengimplementasikan interface Payable1841720070yayak dan eBill bukan turunan dari class Employee1841720070yayak
 
 6.	Ambil kesimpulan tentang konsep/bentuk dasar polimorfisme!
@@ -114,7 +114,7 @@ Link kode program : [Tester21841720070yayak.java](../../src/10_Polimorfisme/Test
 
 Link kode program : [Tester31841720070yayak.java](../../src/10_Polimorfisme/Tester31841720070yayak.java)
 
-![contoh screenshot](img/p3.PNG)
+![contoh screenshot](img/P3.PNG)
 
 ## Pertanyaan Percobaan 3
 
@@ -141,7 +141,7 @@ Link kode program : [Owner1841720070yayak.java](../../src/10_Polimorfisme/Owner1
 
 Link kode program : [Tester41841720070yayak.java](../../src/10_Polimorfisme/Tester41841720070yayak.java)
 
-![contoh screenshot](img/p4.PNG)
+![contoh screenshot](img/P4.PNG)
 
 ## Pertanyaan Percobaan 4
 
